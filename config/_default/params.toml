@@ -12,14 +12,14 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["section1", "section2"]
 # robots = ""
 
 [header]
   layout = "basic" # valid options: basic, fixed
 
 [footer]
- # showMenu = true
+  showMenu = true
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
@@ -27,7 +27,7 @@ enableCodeCopy = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
