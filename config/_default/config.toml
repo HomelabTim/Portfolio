@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 
 theme = "blowfish"
-baseURL = "https://n9o.xyz/"
+baseURL = "https://homelabtim.github.io/Portfolio/"
 defaultContentLanguage = "en"
 disableLanguages = ['pt-pt']
 
@@ -13,27 +13,19 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
-googleAnalytics = "G-R94R4YKFEC"
+#googleAnalytics = ""
 
 [author]
-  name = "Nuno Coração"
-  image = "img/avatar.jpg"
-  headline = "Staff Product Manager @ Docker"
-  bio = "Staff Product Manager @ Docker"
+  name = "Timothy Smith"
+  image = "img/selfie_1.png"
+  headline = "Head of Infrastructure | Tech Content Creator | All Around Nerd "
+  bio = "Head of Infrastructure | Tech Content Creator | All Around Nerd"
   links = [
-    { email = "mailto:nuno@n9o.xyz" },
-    { linkedin = "https://linkedin.com/in/nunocoracao" },
-    { x-twitter = "https://twitter.com/nunocoracao" },
-    { github = "https://github.com/nunocoracao" },
-    #{ medium = "https://medium.com/@nunocoracao" },
-    #{ hackernews = "https://news.ycombinator.com/user?id=nunocoracao"},
-    #{ mastodon = "https://masto.ai/@nunocoracao" },
-    { instagram = "https://instagram.com/nunocoracao" },
-    { goodreads = "http://goodreads.com/nunocoracao" },
-    #{ keybase = "https://keybase.io/nunocoracao" },
-    #{ reddit = "https://reddit.com/user/nunoheart" },
-    #{ telegram = "https://t.me/nunocoracao" },
-    #{ music = "/music" },
+    { linkedin = "https://www.linkedin.com/in/HomelabTim/" },
+    { youtube = "https://www.youtube.com/@HomelabTim?sub_confirmation=1" },
+    { github = "https://github.com/HomelabTim" },
+    { discord = "https://discord.com/users/917686720965787679" },
+    #{ reddit = "https://reddit.com/user/" },
   ]
 
 

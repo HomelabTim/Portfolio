@@ -3,9 +3,9 @@ title: "About"
 date: 2022-06-13T20:55:37+01:00
 draft: false
 
-showDate : false
+showDate : true
 showDateOnlyInArticle : false
-showDateUpdated : false
+showDateUpdated : true
 showHeadingAnchors : false
 showPagination : false
 showReadingTime : false
@@ -15,7 +15,7 @@ showWordCount : false
 showSummary : false
 sharingLinks : false
 showEdit: false
-showViews: true
+showViews: false
 showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false

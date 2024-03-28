@@ -1,14 +1,14 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "N9O"
+title = "Timothy Smith's Portfolio"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
-  dateFormat = "2006-01-02"
+  dateFormat = "Jan 2, 2006"
   logo = "img/logo_inverted@0.25x.png"
   secondaryLogo = "img/logo@0.25x.png"
-  description = "N9O | Nuno Coração"
+  description = "Timothy Smith's Portfolio"
   # copyright = "Copy, _right?_ :thinking_face:"
