@@ -17,8 +17,8 @@ mainSections = ["projects"]
 disableImageOptimization = true
 disableTextInHeader = true
 
-defaultFeaturedImage = "/img/background.jpg"
-defaultBackgroundImage = "/img/background.svg"
+defaultFeaturedImage = "/img/background.png"
+defaultBackgroundImage = "/img/lavalamp.svg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
