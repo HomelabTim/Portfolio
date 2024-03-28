@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2022-06-13T20:55:37+01:00
+date: 2024-03-28
 draft: false
 
 showDate : true
@@ -23,10 +23,14 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-I’ve been building and shipping products across multiple roles and industries, from video streaming applications to API platforms. As a product person, my main goal is to understand my users and their specific needs, in order to deliver a product that truly improves their lives.
+I am Timothy Smith, Head of Infrastructure at AIMG (AI Media Group) ​based in San Antonio, Texas, I am deeply passionate about technology. ​With a degree in Computer Information Systems where I Proudly held an ​award for Outstanding Student in my class, I thrive in team ​collaboration, project management, and delivering exceptional ​customer satisfaction.
 
-I’ve worked for several years in big companies and recently decided to trade that for the opportunity of working in smaller teams. Definitely prefer the latter where one can succeed/fail faster, learn faster, and overall have a way bigger impact.
+In my professional journey, I’ve honed my skills at Kasm Technologies, ​specializing in virtualization, networking, Video Editing and ​Documentation Writing. My proficiency extends to tools like VS Code, Git, ​Docker, and various operating systems, complemented by my AWS ​Certificated Solutions Architect Associate. I’ve recently been appointed ​as Head of Infrastructure at AIMG.
 
-Currently, I am focused on improving the lives of developers worldwide. I’m trying to write more about my previous experiences / random thoughts and would love to gather your feedback on it. I also love to dedicate my time to helping and mentoring other PMs or people that want to get into product.
+At AIMG, I lead the management of on-premises servers, focusing on ​updates, maintenance, and ensuring optimal functionality. My role ​involves maintaining server health, implementing upgrades, and ​overseeing overall server operations to supPort the organization’s ​seamless functioning. Thriving in dynamic environments, I continue to ​bring innovative solutions to the forefront.
 
-<a target="_blank" href="https://mentorcruise.com/mentor/nunocorao/"> <img class="nozoom" src="https://cdn.mentorcruise.com/img/banner/sky-sm.svg" width="240" alt="MentorCruise"> </a>
+Beyond my professional journey, I’m a IT enthusiast eager to explore ​new horizons. I have a dynamic presence on HomelabTim, my YouTube ​channel which boasts 600+ subscribers, featuring popular content like ​the WireGuard VPN video, garnering over 21,000 views.
+
+{{< button href="https://fileshare.homelabtim.com/s/resume" target="" >}}
+Resume
+{{< /button >}}
