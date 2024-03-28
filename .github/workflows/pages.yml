@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Blowfish Docs Deploy
+name: Blowfish Deploy
 
 on:
   # Runs on pushes targeting the default branch
@@ -55,7 +55,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo --minify -d ./public --baseURL https://nunocoracao.github.io/blowfish_template/
+          hugo --minify -d ./public --baseURL https://homelabtim.github.io/Portfolio/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -65,7 +65,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://nunocoracao.github.io/blowfish_template/
+      url: https://homelabtim.github.io/Portfolio/
     runs-on: ubuntu-latest
     needs: build
     steps:
