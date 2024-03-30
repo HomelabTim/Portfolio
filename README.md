@@ -1,6 +1,6 @@
 # Blowfish
 
-[![Deploy Production](https://github.com/HomelabTim/homepage/actions/workflows/pages.yml/badge.svg)](https://github.com/HomelabTim/homepage/actions/workflows/pages.yml)
+[![Deploy Production](https://github.com/HomelabTim/Portfolio/actions/workflows/pages.yml/badge.svg)](https://github.com/HomelabTim/Portfolio/actions/workflows/pages.yml)
 [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.87.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.87.0)
 [![Blowfish](https://img.shields.io/badge/Hugo--Themes-@Blowfish-blue)](https://themes.gohugo.io/themes/blowfish/)
 ![code-size](https://img.shields.io/github/languages/code-size/nunocoracao/blowfish)
