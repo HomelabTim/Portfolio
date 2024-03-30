@@ -1,34 +1,26 @@
-# Blowfish
+# Personal Portfolio
 
 [![Deploy Production](https://github.com/HomelabTim/Portfolio/actions/workflows/pages.yml/badge.svg)](https://github.com/HomelabTim/Portfolio/actions/workflows/pages.yml)
 [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.87.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.87.0)
 [![Blowfish](https://img.shields.io/badge/Hugo--Themes-@Blowfish-blue)](https://themes.gohugo.io/themes/blowfish/)
 ![code-size](https://img.shields.io/github/languages/code-size/nunocoracao/blowfish)
 
-Blowfish is designed to be a powerful, lightweight theme for [Hugo](https://gohugo.io). It's built using Tailwind CSS with a clean and minimalist design that prioritises to your content.
+For my personal portfolio site I coded my site using a theme called [Blowfish](https://themes.gohugo.io/themes/blowfish/). It is designed to be a powerful, lightweight theme for the static site generator called [Hugo](https://gohugo.io). It's built using Tailwind CSS with a clean and minimalist design that prioritizes to your content.
 
 ![blowfish logo](https://github.com/nunocoracao/blowfish/blob/main/logo.png?raw=true)
 
-
-🌏 [Demo site](https://blowfish.page/)  
-📑 [Theme documentation](https://blowfish.page/docs/)  
-💎 [Merch Store](http://tee.pub/lic/qwSlWVBL5zc)  
-🐛 [Bug reports & issues](https://github.com/nunocoracao/blowfish/issues)  
-💡 [Questions & feature requests](https://github.com/nunocoracao/blowfish/discussions)
+To see Blowfish at work and to get a better understanding of it [CLICK HERE](https://blowfish.page/). To give love and support to the creator of Blowfish or to check out his repo [CLICK HERE](https://github.com/nunocoracao/blowfish)
 
 
-
-<a href="https://www.buymeacoffee.com/nunocoracao" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<a target="_blank" href="http://tee.pub/lic/qwSlWVBL5zc"><img class="nozoom" src="https://img.buymeacoffee.com/button-api/?text=Merch Store &emoji=💎&slug=nunocoracao&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
-
+## Show love and support to HomelabTim
+<a href="https://www.buymeacoffee.com/HomelabTim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Features
 
 - Fully responsive layout built with Tailwind CSS 3.0
-- Multiple colour schemes (or fully customise your own)
+- Multiple color schemes (or fully customize your own)
 - Dark mode (forced on/off or auto-switching with user toggle)
-- Highly customisable configuration
+- Highly customizable configuration
 - Firebase integration to support dynamic data
 - Views count & like mechanism
 - Related articles
@@ -44,7 +36,7 @@ Blowfish is designed to be a powerful, lightweight theme for [Hugo](https://gohu
 - Support for several shortcodes like Gallery, Timeline, GitHub cards, and Carousels
 - Buymeacoffee integration
 - Client-side site search powered by Fuse.js
-- Diagrams and visualisations using Mermaid
+- Diagrams and visualizations using Mermaid
 - Charts using Chart.js
 - TypeIt integration
 - Youtube embeds with performance improvements
@@ -56,8 +48,8 @@ Blowfish is designed to be a powerful, lightweight theme for [Hugo](https://gohu
 - SEO friendly with links for sharing to social media
 - Fathom Analytics and Google Analytics support
 - RSS feeds, Favicons and comments support
-- Advanced customisation using simple Tailwind colour definitions and styles
-- Optimised for performance and accessibility with perfect Lighthouse scores
+- Advanced customization using simple Tailwind color definitions and styles
+- Optimized for performance and accessibility with perfect Lighthouse scores
 - Fully documented with regular updates
 
 ---
@@ -152,23 +144,3 @@ As new releases are posted, you can update the theme using Hugo. Simply run `hug
 Detailed [update instructions](https://blowfish.page/docs/installation/#installing-updates) are available in the docs.
 
 ---
-
-## Contributing
-
-Blowfish is expected to evolve over time. I intend to keep adding features and making changes as required.
-
-Feel free to get in touch with any issues or suggestions for new features you'd like to see.
-
-- 🐛 **Bug reports & issues:** Use [GitHub Issues](https://github.com/nunocoracao/blowfish/issues)
-- 💡 **Ideas for new features:** Open a discussion on [GitHub Discussions](https://github.com/nunocoracao/blowfish/discussions)
-- 🙋‍♀️ **General questions:** Head to [GitHub Discussions](https://github.com/nunocoracao/blowfish/discussions)
-
-If you're able to fix a bug or implement a new feature, I welcome PRs for this purpose. Learn more in the [contributing guidelines](https://github.com/nunocoracao/blowfish/blob/main/CONTRIBUTING.md).
-
----
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/nunocoracao/blowfish.svg)](https://starchart.cc/nunocoracao/blowfish)
-
-<a rel="me" href="https://masto.ai/@blowfish">Mastodon</a>
