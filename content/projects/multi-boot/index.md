@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "How to Make a VM With Windows and Linux in Proxmox"
 description: ""
-categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-date: 2024-03-28
+categories: ["College Projects", "Tutorials and Guides", "Virtualization"]
+date: 2023-03-08
 draft: true
 showauthor: false
 authors:

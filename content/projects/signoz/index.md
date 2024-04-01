@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "SigNoz"
 description: ""
-categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-date: 2024-03-28
-draft: true
+categories: ["AIMG Projects", "Networking and Servers", "Software and Tools", "Virtualization"]
+date: 2023-12-04
+draft: false
 showauthor: false
 authors:
   - timothysmith
