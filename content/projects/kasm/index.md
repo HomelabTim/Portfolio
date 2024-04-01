@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Kasm Workspaces"
 description: ""
-categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-date: 2024-03-28
-draft: true
+categories: ["Kasm Projects", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization"]
+date: 2023-02-20
+draft: false
 showauthor: false
 authors:
   - timothysmith
