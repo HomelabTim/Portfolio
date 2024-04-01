@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "How to Install Ubuntu Server 20.04 on Proxmox"
 description: ""
-categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-date: 2024-03-28
-draft: true
+categories: ["College Projects", "Networking and Servers", "Tutorials and Guides", "Virtualization"]
+date: 2023-03-03
+draft: false
 showauthor: false
 authors:
   - timothysmith
