@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Installing Windows 10 and Linux on A New PC"
 description: ""
-categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-date: 2024-03-28
-draft: true
+categories: ["College Projects", "General Tech and Knowledge", "Tutorials and Guides"]
+date: 2021-12-05
+draft: false
 showauthor: false
 authors:
   - timothysmith

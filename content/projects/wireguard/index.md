@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Easiest VPN on Proxmox with Wireguard"
 description: ""
-categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-date: 2024-03-28
-draft: true
+categories: ["Personal Projects", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization"]
+date: 2022-10-12
+draft: false
 showauthor: false
 authors:
   - timothysmith

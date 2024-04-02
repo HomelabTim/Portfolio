@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Homelab Tour 2023"
 description: ""
-categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-date: 2024-03-28
-draft: true
+categories: ["College Projects", "Personal Projects", "File Systems", "Networking and Servers", "Tutorials and Guides"]
+date: 2023-01-20
+draft: false
 showauthor: false
 authors:
   - timothysmith

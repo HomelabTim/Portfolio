@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "How to Create Your Own Samba Share"
 description: ""
-categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-date: 2024-03-28
-draft: true
+categories: ["Personal Projects", "File Systems", "Tutorials and Guides", "Virtualization"]
+date: 2022-12-08
+draft: false
 showauthor: false
 authors:
   - timothysmith

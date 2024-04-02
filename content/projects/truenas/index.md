@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "What is TrueNAS Scale?"
 description: ""
-categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-date: 2024-03-28
-draft: true
+categories: ["College Projects", "Personal Projects", "File Systems", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization"]
+date: 2022-03-10
+draft: false
 showauthor: false
 authors:
   - timothysmith
