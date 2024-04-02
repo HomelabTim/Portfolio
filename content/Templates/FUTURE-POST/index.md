@@ -1,17 +1,13 @@
 ---
-title: "Default Post"
-#categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
-tags: ["Creating Post"]
-# externalUrl: "https://www.docker.com/blog/docker-desktop-4-18/"
+title: "Template"
+description: ""
+tags: ["temp"]
 date: 2024-03-28
 draft: false
 showauthor: false
 authors:
   - timothysmith
-# series: ["The Complete PM"]
-# series\_order: 1
 ---
-
 ```md
 {{</* alert */>}}
 **Warning!** This action is destructive!
@@ -166,6 +162,14 @@ data: {
 
 <br/><br/><br/>
 
+## Emoji
+
+**Example:** `see_no_evil` :see_no_evil:, `hear_no_evil` :hear_no_evil:, `speak_no_evil` :speak_no_evil:.
+
+The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+
+<br/><br/><br/>
+
 ## Gallery
 
 `gallery` allows you to showcase multiple images at once, in a responsive manner with more varied and interesting layouts.
@@ -281,9 +285,108 @@ Finally, custom GitLab instance URL can be provided, as long as the `api/v4/proj
 
 **Output:** {{< icon "github" >}}
 
-Icons are populated using Hugo pipelines which makes them very flexible. Blowfish includes a number of built-in icons for social, links and other purposes. Check the [icon samples]({{< ref "samples/icons" >}}) page for a full list of supported icons.
+Blowfish has built-in support for a number of [FontAwesome 6](https://fontawesome.com/icons) icons. 
 
-Custom icons can be added by providing your own icon assets in the `assets/icons/` directory of your project. The icon can then be referenced in the shortcode by using the SVG filename without the `.svg` extension.
+| Icon name            | Preview                           |
+| -------------------- | --------------------------------- |
+| amazon               | {{< icon amazon >}}               |
+| apple                | {{< icon apple >}}                |
+| bars                 | {{< icon bars >}}                 |
+| bell                 | {{< icon bell >}}                 |
+| blogger              | {{< icon blogger >}}              |
+| bluesky              | {{< icon bluesky >}}              |
+| bomb                 | {{< icon bomb >}}                 |
+| bug                  | {{< icon bug >}}                  |
+| check                | {{< icon check >}}                |
+| circle-info          | {{< icon circle-info >}}          |
+| code                 | {{< icon code>}}                  |
+| codepen              | {{< icon codepen >}}              |
+| comment              | {{< icon comment >}}              |
+| dev                  | {{< icon dev >}}                  |
+| discourse            | {{< icon discourse >}}            |
+| docker               | {{< icon docker >}}               |
+| download             | {{< icon download >}}             |
+| dribbble             | {{< icon dribbble >}}             |
+| edit                 | {{< icon edit >}}                 |
+| email                | {{< icon email >}}                |
+| envelope             | {{< icon envelope >}}             |
+| expand               | {{< icon expand >}}               |
+| eye                  | {{< icon eye >}}                  |
+| facebook             | {{< icon facebook >}}             |
+| fire                 | {{< icon fire >}}                 |
+| flickr               | {{< icon flickr >}}               |
+| fork                 | {{< icon fork >}}                 |
+| foursquare           | {{< icon foursquare >}}           |
+| ghost                | {{< icon ghost >}}                |
+| github               | {{< icon github >}}               |
+| gitlab               | {{< icon gitlab >}}               |
+| globe                | {{< icon globe >}}                |
+| goodreads            | {{< icon goodreads >}}            |
+| google               | {{< icon google >}}               |
+| graduation-cap       | {{< icon graduation-cap >}}       |
+| hackernews           | {{< icon hackernews >}}           |
+| hashnode             | {{< icon hashnode >}}             |
+| heart-empty          | {{< icon heart-empty >}}          |
+| heart                | {{< icon heart >}}                |
+| image                | {{< icon image >}}                |
+| instagram            | {{< icon instagram >}}            |
+| itch-io              | {{< icon itch-io >}}              |
+| keybase              | {{< icon keybase >}}              |
+| kickstarter          | {{< icon kickstarter >}}          |
+| ko-fi                | {{< icon ko-fi >}}                |
+| language             | {{< icon language >}}             |
+| lastfm               | {{< icon lastfm >}}               |
+| lightbulb            | {{< icon lightbulb >}}            |
+| link                 | {{< icon link >}}                 |
+| linkedin             | {{< icon linkedin >}}             |
+| list                 | {{< icon list >}}                 |
+| location-dot         | {{< icon location-dot >}}         |
+| lock                 | {{< icon lock >}}                 |
+| mastodon             | {{< icon mastodon >}}             |
+| medium               | {{< icon medium >}}               |
+| microsoft            | {{< icon microsoft >}}            |
+| moon                 | {{< icon moon >}}                 |
+| mug-hot              | {{< icon mug-hot >}}              |
+| music                | {{< icon music >}}                |
+| orcid                | {{< icon orcid >}}                |
+| patreon              | {{< icon patreon >}}              |
+| paypal               | {{< icon paypal >}}               |
+| pencil               | {{< icon pencil >}}               |
+| pgpkey               | {{< icon pgpkey >}}               |
+| phone                | {{< icon phone >}}                |
+| pinterest            | {{< icon pinterest >}}            |
+| poo                  | {{< icon poo >}}                  |
+| reddit               | {{< icon reddit >}}               |
+| researchgate         | {{< icon researchgate >}}         |
+| rss                  | {{< icon rss >}}                  |
+| rss-square           | {{< icon rss-square >}}           |
+| scale-balanced       | {{< icon scale-balanced >}}       |
+| search               | {{< icon search >}}               |
+| shield               | {{< icon shield >}}               |
+| skull-crossbones     | {{< icon skull-crossbones >}}     |
+| slack                | {{< icon slack >}}                |
+| snapchat             | {{< icon snapchat >}}             |
+| soundcloud           | {{< icon soundcloud >}}           |
+| stack-overflow       | {{< icon stack-overflow >}}       |
+| star                 | {{< icon star >}}                 |
+| steam                | {{< icon steam >}}                |
+| stripe               | {{< icon stripe >}}               |
+| substack             | {{< icon substack >}}             |
+| sun                  | {{< icon sun >}}                  |
+| tag                  | {{< icon tag >}}                  |
+| telegram             | {{< icon telegram >}}             |
+| threads              | {{< icon threads >}}              |
+| tiktok               | {{< icon tiktok >}}               |
+| triangle-exclamation | {{< icon triangle-exclamation >}} |
+| tumblr               | {{< icon tumblr >}}               |
+| twitch               | {{< icon twitch >}}               |
+| twitter              | {{< icon twitter >}}              |
+| wand-magic-sparkles  | {{< icon wand-magic-sparkles >}}  |
+| whatsapp             | {{< icon whatsapp >}}             |
+| x-twitter            | {{< icon x-twitter >}}            |
+| xing                 | {{< icon xing >}}                 |
+| xmark                | {{< icon xmark >}}                |
+| youtube              | {{< icon youtube >}}              |
 
 <br/><br/><br/>
 
