@@ -10,7 +10,7 @@ authors:
 ---
 # Introduction
 
-In the realm of IT automation, Ansible stands out as a powerful tool for simplifying configuration management, deployment, and task automation. My journey with Ansible began at AI Media Group (AIMG), where I explored its capabilities and leveraged it to streamline various automation tasks. In this blog post, I'll share insights gained from working with Ansible, covering everything from installation and playbook creation to practical applications in real-world scenarios.
+In the realm of IT automation, Ansible stands out as a powerful tool for simplifying configuration management, deployment, and task automation. My journey with Ansible began at **AI Media Group (AIMG)**, where I explored its capabilities and leveraged it to streamline various automation tasks. In this blog post, I'll share insights gained from working with Ansible, covering everything from installation and playbook creation to practical applications in real-world scenarios.
 
 # Unveiling Ansible
 
@@ -206,7 +206,7 @@ Through my journey with Ansible, I gained valuable insights into automation best
 
 ### A Journey of Automation Excellence
 
-In conclusion, my journey with Ansible at AI Media Group has been transformative, shaping my approach to automation and empowering me to achieve new levels of efficiency and effectiveness in managing IT infrastructure and workflows.
+In conclusion, my journey with Ansible at **AI Media Group** has been transformative, shaping my approach to automation and empowering me to achieve new levels of efficiency and effectiveness in managing IT infrastructure and workflows.
 
 As I continue to explore the possibilities of Ansible and automation, I look forward to further harnessing its capabilities to drive innovation, streamline operations, and unlock new opportunities for growth and success in the ever-evolving landscape of IT automation.
 
