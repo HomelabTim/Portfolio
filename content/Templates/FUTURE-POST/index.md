@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Default Page"
 description: ""
 tags: ["temp"]
 date: 2024-03-28
