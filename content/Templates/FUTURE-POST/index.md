@@ -2,7 +2,7 @@
 title: "Default Page"
 description: ""
 tags: ["temp"]
-#categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
+#categories: ["College Projects", "Kasm Projects", "AIMG Projects", "Personal Projects", "AI", "Automation", "File Systems", "General Tech and Knowledge", "Networking and Servers", "Software and Tools", "Tutorials and Guides", "Virtualization", "Web Development"]
 date: 2024-03-28
 draft: false
 showauthor: false
@@ -389,6 +389,14 @@ Blowfish has built-in support for a number of [FontAwesome 6](https://fontawesom
 | xmark                | {{< icon xmark >}}                |
 | youtube              | {{< icon youtube >}}              |
 
+<br/><br/><br/>
+
+## Keys
+
+Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>DELETE</kbd>
+```bash
+Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>DELETE</kbd>
+```
 <br/><br/><br/>
 
 ## Keyword
