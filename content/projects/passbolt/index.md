@@ -44,7 +44,8 @@ Firstly, we needed Docker and Docker Compose on our server. Docker simplifies de
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
-**Install Docker and Docker-Compose**
+**Install Docker and Dock
+er-Compose**
 ```bash
 sudo apt install docker.io docker-compose -y
 ```
