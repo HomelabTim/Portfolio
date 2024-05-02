@@ -53,7 +53,7 @@ sudo apt install docker.io docker-compose -y
 docker --version
 ```
 
-For more information on Docker and the work I have done with it view my [Docker Project](/content/projects/docker/index.md)
+For more information on Docker and the work I have done with it view my [Docker Project](/projects/docker)
 
 ## Deploying Passbolt
 
