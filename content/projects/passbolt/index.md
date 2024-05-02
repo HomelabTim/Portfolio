@@ -150,41 +150,40 @@ volumes:
 sudo mv docker-compose-ce.yaml docker-compose.yaml
 ```
 
-
-
 ## Launching Passbolt
 
 After configuring `docker-compose.yml`, starting Passbolt was as simple as running:
 ```bash
 docker-compose up -d
 ```
-
-This command launches the containers in the background. Even though it is now running 
-
+{{< alert "lightbulb" >}}
+**TIP** remember to set the IP of your server to your Domain you can find your IP address using the command `ip add`
+{{< /alert >}}
 
 Once running, we can confirm it is accessible through the browser at the specified URL we set.
 
 ### Post-Deployment Configuration
 
-After Passbolt was up and running, we 
-Configuring email was crucial for user registration and notifications. We added the following environment variables to the Passbolt service in our docker-compose.yml:
+Now that Passbolt is up and running they ask you setup a **SMTP email server** for user registration and notifications. This setup is crucial as it handles all outgoing communications from Passbolt to its users, including registration links and notification alerts.
 
-yaml
+If you're not ready to set up an **SMTP server** just yet, or if you prefer a more hands-on method, adding users via the command line is a great alternative. This method is particularly useful during initial setup phases or when managing a small number of users. Here's how to do it:
 
-  passbolt:
-    environment:
-      EMAIL_TRANSPORT_DEFAULT_HOST: smtp.example.com
-      EMAIL_TRANSPORT_DEFAULT_PORT: 587
-      EMAIL_TRANSPORT_DEFAULT_USERNAME: your-email@example.com
-      EMAIL_TRANSPORT_DEFAULT_PASSWORD: your-email-password
-      EMAIL_TRANSPORT_DEFAULT_TLS: true
+**Add your first user this is the account you will access passbolt on**
 
-## Securing Passbolt with HTTPS
+```bash
+docker exec -it passbolt_passbolt_1 su -m -c "/usr/share/php/passbolt/bin/cake passbolt register_user -u EMAIL -f FIRST NAME -l LAST NAME -r admin" -s /bin/sh www-data
+```
+| Variable               | What to Change                                                                         |
+| ---------------------- | -------------------------------------------------------------------------------------- |
+| `passbolt_passbolt_1`  | **This is the name of your docker container only change this if yours is different**   |
+| `EMAIL`                |  **Change this to reflect the users email address**                                    |
+| `FIRST NAME`           | **Change this to reflect the users first name**                                        |
+| `LAST NAME`            | **Change this to reflect the users last name**                                         |
+| `-r admin`             | **Add or remove this depending on if you want the user to have admin permissions**     |
 
-For HTTPS, we used Nginx as a reverse proxy with SSL certificates from Let's Encrypt. This ensures all communications between users and the server are encrypted.
-Reflections and Future Steps
-
-## Adding Users to Passbolt
+{{< alert "lightbulb" >}}
+**TIP** use this same method to add multiple users to the passbolt account once the account is made copy the link in the terminal and send it to the user so they can setup their account
+{{< /alert >}}
 
 # Conclusion
 
