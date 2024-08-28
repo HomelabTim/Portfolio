@@ -13,9 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install Hugo
+      - name: Install Hugo v0.83.1
         run: |
-          sudo apt-get install hugo
+          wget https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_extended_0.83.1_Linux-64bit.deb
+          sudo dpkg -i hugo_extended_0.83.1_Linux-64bit.deb
 
       - name: see hugo version
         run: hugo version
