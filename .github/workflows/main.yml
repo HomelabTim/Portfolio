@@ -18,7 +18,7 @@ jobs:
           sudo apt-get install hugo
 
       - name: see hugo version
-        run: hugo --version
+        run: hugo version
       
       - name: Verify Hugo Module Compatibility
         run: hugo mod graph
