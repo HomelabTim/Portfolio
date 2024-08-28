@@ -18,8 +18,8 @@ buildFuture = false
 [author]
   name = "Timothy Smith"
   image = "img/selfie_1.png"
-  headline = "Head of Infrastructure | Tech Content Creator | All Around Nerd "
-  bio = "Head of Infrastructure | Tech Content Creator | All Around Nerd"
+  headline = "Full-Time Student | AWS Certified | Cloud & DevOps Engineer"
+  bio = "Full-Time Student | AWS Certified | Cloud & DevOps Engineer"
   links = [
     { linkedin = "https://www.linkedin.com/in/HomelabTim/" },
     { youtube = "https://www.youtube.com/@HomelabTim?sub_confirmation=1" },
