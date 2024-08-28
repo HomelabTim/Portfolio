@@ -13,10 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install Hugo v0.83.1
-        run: |
-          wget https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_extended_0.83.1_Linux-64bit.deb
-          sudo dpkg -i hugo_extended_0.83.1_Linux-64bit.deb
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.112.0' # Specify the Hugo version you want to use
 
       - name: see hugo version
         run: hugo version
@@ -24,8 +24,8 @@ jobs:
       - name: Verify Hugo Module Compatibility
         run: hugo mod graph
 
-      - name: Build site
-        run: hugo
+      - name: Build Hugo site
+        run: hugo --theme=blowfish
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v3
