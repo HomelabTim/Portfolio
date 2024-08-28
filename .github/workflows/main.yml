@@ -17,8 +17,8 @@ jobs:
         run: |
           sudo apt-get install hugo
 
-      - name: Print working directory
-        run: pwd
+      - name: Verify Hugo Module Compatibility
+        run: hugo mod graph
 
       - name: Build site
         run: hugo
@@ -28,9 +28,6 @@ jobs:
         with:
           name: dist
           path: public
-
-      - name: Print working directory
-        run: pwd
 
       - name: Add nginx config to build artifact
         uses: actions/upload-artifact@v3
