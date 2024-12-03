@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-03-28
+date: 2024-12-03
 draft: false
 
 showDate : true
@@ -23,13 +23,15 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-I am Timothy Smith, Head of Infrastructure at AIMG (AI Media Group) ​based in San Antonio, Texas, I am deeply passionate about technology. ​With a degree in Computer Information Systems where I Proudly held an ​award for Outstanding Student in my class, I thrive in team ​collaboration, project management, and delivering exceptional ​customer satisfaction.
+Hi everyone! I am Timothy Smith a dedicated and passionate technology enthusiast, I bring extensive experience in systems administration, cloud engineering, and DevOps to the table. I hold an Associate of Applied Sciences in General Studies and an Associate of Applied Sciences in Computer Information Systems from Southwest Texas Junior College. I am currently a full-time student pursuing a Bachelor of Science in Cybersecurity and Information Assurance from Western Governors University. 
 
-In my professional journey, I’ve honed my skills at Kasm Technologies, ​specializing in virtualization, networking, Video Editing and ​Documentation Writing. My proficiency extends to tools like VS Code, Git, ​Docker, and various operating systems, complemented by my AWS ​Certificated Solutions Architect Associate. I’ve recently been appointed ​as Head of Infrastructure at AIMG.
+My technical expertise includes cloud computing, virtualization, networking, and documentation writing, utilizing tools such as AWS, Google Cloud Platform (GCP), VS Code, Git, and Docker. I am AWS Solutions Architect Associate certified and have successfully managed on-premises and cloud server infrastructures, ensuring optimal functionality and reliability.
 
-At AIMG, I lead the management of on-premises servers, focusing on ​updates, maintenance, and ensuring optimal functionality. My role ​involves maintaining server health, implementing upgrades, and ​overseeing overall server operations to supPort the organization’s ​seamless functioning. Thriving in dynamic environments, I continue to ​bring innovative solutions to the forefront.
+Professionally, I have held roles such as Head of Infrastructure at AI Media Group and Systems Engineer at Kasm Technologies, where I managed over 200 servers, administered Proxmox infrastructure, optimized AI workflows, and provided comprehensive end-user support. I have a proven track record of delivering exceptional customer satisfaction and maintaining detailed documentation of internal procedures.
 
 Beyond my professional journey, I’m a IT enthusiast eager to explore ​new horizons. I have a dynamic presence on HomelabTim, my YouTube ​channel which boasts 600+ subscribers, featuring popular content like ​the WireGuard VPN video, garnering over 21,000 views.
+
+I am actively seeking new opportunities where I can contribute my skills and experience to a forward-thinking organization. If you are looking for a passionate and skilled Cloud & DevOps Engineer, I would love to connect and discuss potential opportunities.
 
 {{< button href="https://fileshare.homelabtim.com/s/resume" target="" >}}
 Resume
